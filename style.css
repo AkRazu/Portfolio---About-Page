@@ -1,0 +1,88 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.div2 h1 {
+  margin: 20px 0 15px;
+  font-size: 2em;
+  display: block;
+  font-size: 80px;
+  font-weight: 500;
+  color: #1a1c20;
+}
+.div2 {
+  width: 90%;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.div2 p {
+  color: 000;
+  font-size: 25px;
+  line-height: 39px;
+  opacity: 1;
+}
+.div1 {
+  width: 600px;
+  height: 500px;
+  margin-left: 90px;
+  margin-top: 10px;
+}
+.div1 img {
+  width: 100%;
+  margin-bottom: 50px;
+  border-radius: 15px;
+  display: block;
+}
+
+.tor-banner {
+  display: flex;
+}
+
+.pera {
+  display: flex;
+}
+.pera li {
+  border: 1px solid rgb(114, 114, 114);
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.service-name-text {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ced1df;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+div h2 {
+  margin: 20px 0 15px;
+  font-size: 2em;
+  display: block;
+  font-size: 50px;
+  font-weight: 500;
+  color: #1a1c20;
+}
+section {
+  display: flex;
+}
+.div3 {
+  margin-left: 90px;
+  margin-top: 10px;
+}
+.div3 p {
+  position: relative;
+  font-size: 20px;
+  line-height: 32px;
+  margin-bottom: 50px;
+  font-weight: 300;
+  opacity: 1;
+  width: 90%;
+}
